@@ -1,9 +1,9 @@
 # CreditWise-Loan-System
-#### A Loan Approval System
+### A Loan Approval System
 <hr>
-My First Mini M.L. Project.
+<b>My First Mini M.L. Project.</b>
 
-### Problem Statement
+* ## Problem Statement:
 A mid-sized financial company named <b>Secure Trust Bank</b> offers personal and home loans to customers across urban and rural regions of India. Every day, hundreds of customers apply for loans through online and branch applications.
 
 Until now, <b>Secure Trust Bank</b> has been using a manual verification process where loan officers evaluate applications by checking income proofs, employment details, credit history, and other documents. This process is time-consuming, biased & inconsistent.
@@ -15,10 +15,10 @@ As a result, the bank faces two major challenges:
 To solve this problem, the bank wants to introduce an intelligent loan approval system powered by Machine Learning that can automatically analyse applicant details and predict whether a loan should be Approved or Rejected before final human verification.
 
 
-### Solution using ML model
+* ## Solution using ML model:
 In this project i built end-to-end Supervised ML pipeline using kNN, Logistic Regression, and Naive Baye's to predict loan approval. Implemented Binary classification along with EDA, feature engineering & model evaluation using Precision, Recall and f1-score.
 
-### Dataset Description
+* ## Dataset Description:
 Each row in the dataset represents a <b>Loan applicant</b> and contains multiple attributes describing their personal, financial, and credit information.
 
 <div class="wrapper">
